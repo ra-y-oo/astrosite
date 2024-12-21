@@ -18,6 +18,8 @@
     "@clerk/astro": "^2.1.4",
     "astro": "^5.0.2",
     "astro-icon": "^1.1.4",
+    "open-props": "^1.7.8",
+    "postcss-import": "^16.1.0",
     "postcss-jit-props": "^1.0.15",
     "sharp": "^0.32.5"
   },

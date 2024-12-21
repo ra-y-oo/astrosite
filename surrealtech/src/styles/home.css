@@ -1,0 +1,7 @@
+@import "open-props/open-props.css";
+
+
+h1 {
+    font-size: var(--size-fluid-2);
+    color: var(--blue-7);
+}

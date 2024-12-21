@@ -1,0 +1,8 @@
+@import "open-props/open-props.css";
+
+/* Now you can use Open Props variables */
+body {
+    color: var(--gray-9);
+    background-color: var(--gray-1);
+    font-family: var(--font-sans);
+}
