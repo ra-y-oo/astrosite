@@ -18,6 +18,7 @@
     "@clerk/astro": "^2.1.4",
     "astro": "^5.0.2",
     "astro-icon": "^1.1.4",
+    "postcss-jit-props": "^1.0.15",
     "sharp": "^0.32.5"
   },
   "description": "[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)",
